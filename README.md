@@ -23,3 +23,5 @@ Copyright (c) 2015 Mathias Brandewinder, [MIT License](LICENSE).
 
 Original Clojure version: Copyright © 2014 Carin Meier, distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
+Test edit.
